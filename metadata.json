@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Travel Planner",
+  "description": "A collaborative platform for trip planning with budget tracking, map-integrated itineraries, and real-time flight updates.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
